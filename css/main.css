@@ -68,9 +68,9 @@ html, body {
   margin-right: 42px;
 }
 .navigation-list a:hover {
-  color: #f78434;
+  color: #4dc0bf;
 }
 .navigation-list a.active {
-  color: #f78434;
+  color: #4dc0bf;
   font-weight: 700;
 }/*# sourceMappingURL=main.css.map */
