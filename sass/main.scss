@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+// Base
+@import "./base/reset";
+@import "./base/base";
+@import "./base/vars";
+
+
+
+
+// Blocks
+@import "./blocks/nav";
+@import "./blocks/logo";
+@import "./blocks/navigation-list";
